@@ -46,3 +46,11 @@ body{
     width: 35%;
     height: auto;
 }
+
+.cmSoon{
+    color: #fff;
+    font-size: 30px;
+    position: relative;
+    top: 160px;
+    font-family: 'Josefin Sans', sans-serif;
+}
